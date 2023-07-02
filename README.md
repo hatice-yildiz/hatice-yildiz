@@ -1,9 +1,13 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4E16AQFh0S24UDV3Cw/profile-displaybackgroundimage-shrink_350_1400/0/1686155260479?e=1694044800&v=beta&t=IHtncyIg88Jg9r3UaYQpQ26phCZYtb5bCEGaI13bXVY)
+
 <h1 align="center">Hi 👋, I'm Hatice Yıldız</h1>
+<h3 align="center">A passionate Data Scientist</h3>
 I'm a Data Scientist and Data Analyst.
 Additionally, I have expertise in leveraging the AWS cloud platform for Data Engineering. 
 
-<h3 align="center">A passionate Data Scientist</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hatice-yildiz&label=Profile%20views&color=0e75b6&style=flat" alt="hatice-yildiz" /> </p>
 
 - 🔭 I’m currently working on **AWS Data Engineer**
 
