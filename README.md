@@ -3,17 +3,17 @@
 <h1 align="center">Hi 👋, I'm Hatice Yıldız</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 I'm a Data Scientist and Data Analyst.
-Additionally, I have expertise in leveraging the AWS cloud platform for Data Engineering. 
+I have expertise in business intelligence and data analytics, including Power BI and data analytics solutions.
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hatice-yildiz&label=Profile%20views&color=0e75b6&style=flat" alt="hatice-yildiz" /> </p>
 
-- 🔭 I’m currently working on **AWS Data Engineer**
+- 🔭  I am currently working on data analytics in a pharmaceutical company.
 
 - 📝 I regularly write articles on [https://medium.com/@htceyldz](https://medium.com/@htceyldz)
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Science** and **Data Analytics**
 
 - 📫 How to reach me **htceyldz@gmail.com**
 
