@@ -1,7 +1,6 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQFh0S24UDV3Cw/profile-displaybackgroundimage-shrink_350_1400/0/1686155260479?e=1694044800&v=beta&t=IHtncyIg88Jg9r3UaYQpQ26phCZYtb5bCEGaI13bXVY)
 
 <h1 align="center">Hi 👋, I'm Hatice Yıldız</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Scientist and Data Analytics</h3>
 I'm a Data Scientist and Data Analyst.
 I have expertise in business intelligence and data analytics, including Power BI and data analytics solutions.
 
